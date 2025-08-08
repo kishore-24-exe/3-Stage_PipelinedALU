@@ -1,5 +1,5 @@
 Project Overview
-  This project implements a 3-stage pipelined 8-bit ALU in Verilog HDL, closely mirroring the way real-world CPUs improve performance through instruction-level parallelism.
+  -This project implements a 3-stage pipelined 8-bit ALU in Verilog HDL, closely mirroring the way real-world CPUs improve performance through instruction-level parallelism.
 
 🔧 Pipeline Stages
 1️⃣ Instruction Fetch (IF) – Load the instruction from memory
