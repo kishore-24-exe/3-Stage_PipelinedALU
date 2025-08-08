@@ -1,0 +1,4 @@
+110A  // opcode=1 (ADD), a=0x10, b=0x0A => 16+10 = 26
+2214  // opcode=2 (ADDC), a=0x21, b=0x04 => 33+4 = 37
+3078  // opcode=3 (SUB), a=0x07, b=0x08 => 7-8 = -1
+F0FF  // opcode=15 (NAND), a=0x0F, b=0x0F => ~(0F&0F) = 0xF0
